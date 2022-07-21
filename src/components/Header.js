@@ -2,10 +2,10 @@
 import React from 'react';
 import './Header.css';
 
-const Header = ({judul,subJudul}) => {
+const Header = ({title,subtitle}) => {
     return <div class="header center">
-        <h1>{judul}</h1>
-        <h4>{subJudul}</h4>
+        <h1>{title}</h1>
+        <h4>{subtitle}</h4>
         <hr/>
     </div>
         
