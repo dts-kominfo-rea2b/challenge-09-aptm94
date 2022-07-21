@@ -1,0 +1,22 @@
+.header {
+    margin: 10px;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dotted;
+    border-width: 1px;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
